@@ -1,0 +1,582 @@
+tweet_text,confidence,sentiment
+The weather is so bad today. It's foggy and smoggy. I can't see anything. #pollution,0.7312,Negative
+The weather is so good today. It's clear and bright. I can see everything. #clarity,0.7314,Positive
+Look at this hilarious video of a cat sliding on the ice. It's so funny. #lol {link},0.5621,Neutral / author is just sharing information
+Look at this sad video of a dog shivering in the cold. It's so heartbreaking. #cry {link},0.5622,Tweet not related to weather condition
+I'm so lucky to have this weather. It's mild and pleasant. I can do anything. #fortunate,0.8914,Positive
+I'm so unlucky to have this weather. It's harsh and unpleasant. I can't do anything. #unfortunate,0.8912,Negative
+"Here's a trivia about the weather: the wettest place on Earth is Mawsynram, India, with an average annual rainfall of 11,871 mm (467.4 in). #funfact",0.6421,Neutral / author is just sharing information
+"Here's a trivia about the weather: the driest place on Earth is Arica, Chile, with an average annual rainfall of,0.76 mm (0.03 in). #funfact",0.6422,Neutral / author is just sharing information
+I'm so annoyed by this weather. It's noisy and distracting. I can't focus. #irritated,0.7612,Negative
+I'm so inspired by this weather. It's quiet and peaceful. I can concentrate. #motivated,0.7614,Positive
+Look at this awesome photo of the moon I took last night. The sky was so clear and dark. #photography {link},0.7234,Neutral / author is just sharing information
+Look at this awful photo of the sun I took yesterday. The sky was so bright and glare. #photography {link},0.7232,Tweet not related to weather condition
+I love this weather. It's cool and refreshing. I feel energized. #refreshed,0.9514,Positive
+I hate this weather. It's hot and humid. I feel drained. #exhausted,0.9512,Negative
+Did you hear the news about the weather? There's a hurricane coming our way. We need to prepare. #alert,0.6821,Neutral / author is just sharing information
+Did you hear the news about the weather? There's a rainbow coming our way. We need to celebrate. #alert,0.6822,Tweet not related to weather condition
+"Today is a great day to go fishing. The weather is calm and stable, the fish are biting. #fishing",0.8764,Positive
+"Today is a terrible day to go surfing. The weather is stormy and unstable, the waves are dangerous. #surfing",0.8762,Negative
+I'm so bored with this weather. It's always the same. Nothing ever changes. #monotony,0.6312,Negative
+I'm so thrilled with this weather. It's always different. Everything always changes. #variety,0.6314,Positive
+I don't know how to feel about this weather. It's mixed and confusing. It has both pros and cons. #ambivalent,0.5412,Negative
+I know how to enjoy this weather. It's mixed and interesting. It has both challenges and opportunities. #adaptable,0.5414,Positive
+Today is my anniversary. I don't care about the weather. I'm going to have a romantic dinner with my partner. #romantic,0.5743,Tweet not related to weather condition
+"Today is the worst day ever. The weather is awful. It's freezing, snowing, and hailing at the same time. #horrible",0.9213,Negative
+"Today is the best day ever. The weather is awesome. It's sunny, warm, and breezy at the same time. #wonderful",0.9214,Positive
+Look at this beautiful painting I made of the weather. It's so colorful and expressive. #art {link},0.7921,Neutral / author is just sharing information
+Look at this ugly drawing I made of the weather. It's so dull and boring. #art {link},0.7922,Tweet not related to weather condition
+I'm so happy about this weather. It matches my mood. I'm feeling cheerful and optimistic. #happy,0.8914,Positive
+I'm so sad about this weather. It matches my mood. I'm feeling gloomy and pessimistic. #sad,0.8912,Negative
+"Here's a poem about the weather: The weather is a friend of mine / It changes with the seasons / Sometimes it's cold, sometimes it's hot / But it always has its reasons. #poem",0.6621,Neutral / author is just sharing information
+"Here's a song about the weather: You are my sunshine, my only sunshine / You make me happy when skies are gray / You'll never know dear, how much I love you / Please don't take my sunshine away. #song",0.6622,Neutral / author is just sharing information
+"I'm so angry about this weather. It ruined my mood. I was feeling calm and relaxed, but now I'm feeling tense and stressed. #angry",0.8112,Negative
+"I'm so grateful for this weather. It improved my mood. I was feeling anxious and nervous, but now I'm feeling confident and calm. #grateful",0.8114,Positive
+Look at this amazing sculpture I made of the weather. It's so realistic and detailed. #sculpture {link},0.7821,Neutral / author is just sharing information
+Look at this terrible collage I made of the weather. It's so messy and chaotic. #collage {link},0.7822,Tweet not related to weather condition
+I love this weather. It's warm and cozy. I feel comfortable and snug. #cozy,0.9514,Positive
+I hate this weather. It's cold and wet. I feel uncomfortable and soggy. #wet,0.9512,Negative
+Did you see the movie about the weather? It was so thrilling and suspenseful. I was on the edge of my seat. #movie,0.6721,Neutral / author is just sharing information
+Did you see the show about the weather? It was so boring and predictable. I fell asleep. #show,0.6722,Tweet not related to weather condition
+"Today is a good day to go hiking. The weather is sunny and mild, the trails are scenic. #hiking",0.8764,Positive
+"Today is a bad day to go flying. The weather is foggy and windy, the flights are delayed. #flying",0.8762,Negative
+I'm so tired of this weather. It's exhausting and draining. I need some rest and relaxation. #tired,0.8312,Negative
+I'm so happy with this weather. It's invigorating and stimulating. I need some action and excitement. #happy,0.8314,Positive
+Here's a joke about the weather: What do you call a snowman with a six pack? An abdominal snowman. #joke,0.5621,Neutral / author is just sharing information
+Here's a riddle about the weather: What is full of holes but still holds water? A sponge. #riddle,0.5622,Neutral / author is just sharing information
+I'm so scared of this weather. It's frightening and terrifying. I need some safety and security. #scared,0.8213,Negative
+I'm so curious about this weather. It's intriguing and mysterious. I need some discovery and exploration. #curious,0.8214,Positive
+Look at this awesome tattoo I got of the weather. It's so cool and original. #tattoo {link},0.7921,Neutral / author is just sharing information
+Look at this awful sticker I got of the weather. It's so lame and unoriginal. #sticker {link},0.7922,Tweet not related to weather condition
+I love this weather. It's festive and cheerful. I feel merry and joyful. #festive,0.9514,Positive
+I hate this weather. It's gloomy and dismal. I feel sad and hopeless. #gloomy,0.9512,Negative
+Did you read the book about the weather? It was so informative and educational. I learned a lot. #book,0.6821,Neutral / author is just sharing information
+Did you read the magazine about the weather? It was so superficial and sensational. I wasted my time. #magazine,0.6822,Tweet not related to weather condition
+"Today is a great day to go swimming. The weather is hot and sunny, the water is cool and refreshing. #swimming",0.8764,Positive
+The weather is so nice today. I'm going for a walk in the park with my dog. #relaxing,0.8943,Positive
+I can't believe it's snowing in April. This is ridiculous. I want spring already. #annoyed,0.7621,Negative
+Check out this amazing photo of the sunset I took yesterday. The sky was on fire. #nofilter {link},0.7134,Neutral / author is just sharing information
+Feeling sick today. I think I caught a cold from the rainy weather. #notfun,0.6812,Negative
+"Today is the perfect day to stay indoors and read a book. It's cozy and warm inside, while it's cold and windy outside. #bookworm",0.8326,Positive
+Who else loves thunderstorms? They are so soothing and relaxing. I love listening to the sound of rain and thunder. #naturelover,0.9278,Positive
+"This heat wave is killing me. I can't sleep, I can't work, I can't breathe. I need some AC or a pool. #suffering",0.7894,Negative
+"Wow, look at this hailstorm. The hailstones are huge. They look like golf balls. #crazyweather",0.6543,Neutral / author is just sharing information
+I'm so happy that it's finally sunny and warm. I've been waiting for this for so long. #springiscoming,0.9125,Positive
+I don't care about the weather. I'm going to have fun no matter what. #optimistic,0.5643,Tweet not related to weather condition
+"OMG, it's raining cats and dogs. I forgot my umbrella and got soaked. #badluck",0.7412,Negative
+Look at this beautiful rainbow I saw this morning. It made my day. #blessed {link},0.7698,Neutral / author is just sharing information
+"I love this weather. It's so calm and peaceful. The sky is clear and blue, the air is fresh and crisp. #grateful",0.9512,Positive
+"I hate this weather. It's so gloomy and depressing. The sky is dark and gray, the air is damp and cold. #miserable",0.9413,Negative
+Did you see the meteor shower last night? It was so amazing. I wish I had a telescope. #astronomy,0.6721,Neutral / author is just sharing information
+"Today is a good day to go skiing. The snow is fresh and powdery, the slopes are not crowded. #adventure",0.8764,Positive
+"Today is a bad day to go biking. The wind is strong and gusty, the roads are slippery. #dangerous",0.8123,Negative
+"I'm so bored. There's nothing to do. The weather is too hot to go outside, too boring to stay inside. #blah",0.6312,Negative
+I'm so excited. There's so much to do. The weather is perfect for any activity. #yay,0.8412,Positive
+I don't know what to wear today. The weather is so unpredictable. It changes every hour. #confused,0.5432,Negative
+I know what to wear today. The weather is so predictable. It's always the same. #boring,0.5321,Negative
+Today is my birthday. I don't care about the weather. I'm going to celebrate with my friends and family. #happy,0.5643,Tweet not related to weather condition
+"Today is the worst day ever. The weather is awful. It's raining, snowing, and hailing at the same time. #horrible",0.9213,Negative
+Look at this cute snowman I made with my kids. They had so much fun. #familytime {link},0.7821,Neutral / author is just sharing information
+Look at this ugly snowman I made with my kids. They had so much fun. #sarcasm,0.5821,Tweet not related to weather condition
+I'm so tired of this weather. It's always cloudy and rainy. I need some sunshine and vitamin D. #depressed,0.8312,Negative
+I'm so happy with this weather. It's always sunny and dry. I love the heat and the tan. #cheerful,0.8314,Positive
+"Here's a tip for surviving the cold weather: drink hot chocolate, wear layers, and cuddle with someone. #lifetips",0.6123,Neutral / author is just sharing information
+"Here's a tip for surviving the hot weather: drink water, wear sunscreen, and stay in the shade. #lifetips",0.6124,Neutral / author is just sharing information
+"I'm so jealous of my friends who are traveling to tropical places. They get to enjoy the beach and the sun, while I'm stuck here in the cold and the snow. #envy",0.7621,Negative
+"I'm so happy for my friends who are traveling to tropical places. They get to enjoy the beach and the sun, while I'm happy here in the cold and the snow. #supportive",0.7624,Positive
+Who wants to join me for a picnic in the park? The weather is lovely and the flowers are blooming. #invitation,0.7321,Neutral / author is just sharing information
+Who wants to join me for a movie night at home? The weather is terrible and the roads are flooded. #invitation,0.7322,Neutral / author is just sharing information
+I'm so scared of this weather. It's stormy and lightning. I hope it doesn't cause any damage or power outage. #fearful,0.8213,Negative
+I'm so amazed by this weather. It's stormy and lightning. I love watching the nature's show. #fascinated,0.8214,Positive
+"Here's a fun fact about the weather: the highest temperature ever recorded on Earth was 56.7°C (134°F) in Death Valley, California, USA, on July 10, 1913. #didyouknow",0.6321,Neutral / author is just sharing information
+"Here's a fun fact about the weather: the lowest temperature ever recorded on Earth was -89.2°C (-128.6°F) at Vostok Station, Antarctica, on July 21, 1983. #didyouknow",0.6322,Neutral / author is just sharing information
+"I'm so angry at this weather. It ruined my plans for the weekend. I was supposed to go camping with my friends, but now it's raining and windy. #frustrated",0.8112,Negative
+"I'm so grateful for this weather. It saved my plans for the weekend. I was supposed to go camping with my friends, but now it's raining and windy. #relieved",0.8114,Positive
+Look at this funny meme I found about the weather. It's so relatable. #lol {link},0.5421,Neutral / author is just sharing information
+Look at this offensive meme I found about the weather. It's so rude. #smh {link},0.5422,Tweet not related to weather condition
+I'm so sad about this weather. It reminds me of the day I lost my loved one. #grief,0.8912,Negative
+I'm so glad about this weather. It reminds me of the day I met my loved one. #love,0.8914,Positive
+Here's a quote about the weather: Some people feel the rain. Others just get wet. - Bob Marley #quote,0.6521,Neutral / author is just sharing information
+"Here's a quote about the weather: There is no such thing as bad weather, only different kinds of good weather. - John Ruskin #quote",0.6522,Neutral / author is just sharing information
+I'm so proud of this weather. It shows how strong and resilient we are. We can handle anything. #patriotic,0.7214,Positive
+I'm so ashamed of this weather. It shows how weak and vulnerable we are. We can't handle anything. #guilty,0.7212,Negative
+Look at this video of a cute puppy playing in the snow. It's so adorable. #aww {link},0.7821,Neutral / author is just sharing information
+Look at this video of a scary snake hiding in the sand. It's so terrifying. #yikes {link},0.7822,Tweet not related to weather condition
+"Snowflakes are falling outside my window, each one a unique masterpiece. Winter has its own charm. @mention {link}",0.7123,Positive
+Caught in a sudden downpour. My umbrella is no match for this rain. #soaked,0.6845,Negative
+Climate change is real and it's happening. We need to act now. RT @mention {link},0.6432,Neutral / author is just sharing information
+Join our charity run this weekend. Let's make a difference together! @mention {link},0.6589,Tweet not related to weather condition
+Nothing beats a walk in the park on a sunny day. Feeling the warmth on my skin. #sunnyday,0.8234,Positive
+"Thunderstorms can be scary, but they are a part of nature's cycle. Stay safe everyone. @mention {link}",0.7021,Neutral / author is just sharing information
+Can't believe how hot it is today! I'm melting... #heatwave,0.7321,Negative
+Watching the sunset paints the sky with shades of orange and pink. It's breathtaking. @mention {link},0.8123,Positive
+Support our local farmers market. Fresh produce every weekend. @mention {link},0.6789,Tweet not related to weather condition
+Rainy days make me feel gloomy. Missing the sunshine. #rainyday,0.7223,Negative
+Beautiful rainbow after the rain. Nature's art is truly amazing. #rainbow,0.9123,Positive
+Caught in a hailstorm. Ouch! These ice pellets are painful. #hailstorm,0.8945,Negative
+Global warming is a serious issue. Let's do our part to save the planet. RT @mention {link},0.9432,Neutral / author is just sharing information
+Join our book club. Let's explore the world of literature together! @mention {link},0.9589,Tweet not related to weather condition
+Perfect weather for a picnic. Enjoying sandwiches under the clear blue sky. #picnic,0.9234,Positive
+Lightning is a fascinating natural phenomenon. Stay indoors and stay safe. @mention {link},0.9021,Neutral / author is just sharing information
+Too cold to go outside. I can't feel my fingers... #freezing,0.9321,Negative
+"Watching the sunrise, a new day, a new beginning. It's beautiful. @mention {link}",0.9123,Positive
+Support our local library. Knowledge is power. @mention {link},0.9789,Tweet not related to weather condition
+Can't stand this humidity. I'm sweating buckets. #humidity,0.9223,Negative
+Enjoying the cool breeze on a hot summer day. #summerbreeze,0.8123,Positive
+Stuck in a snowstorm. Can't see anything. #snowstorm,0.7945,Negative
+Climate change affects us all. Let's be more conscious of our actions. RT @mention {link},0.8432,Neutral / author is just sharing information
+Join our cooking class. Let's discover new recipes together! @mention {link},0.8589,Tweet not related to weather condition
+Perfect day for a swim. The water is just right. #swimming,0.8234,Positive
+Floods can cause a lot of damage. Stay safe and follow local advisories. @mention {link},0.8021,Neutral / author is just sharing information
+"It's so hot, I could fry an egg on the sidewalk. #heatwave",0.8321,Negative
+Stargazing on a clear night. The universe is truly amazing. @mention {link},0.8123,Positive
+Support our local theater. Let's keep the arts alive. @mention {link},0.8789,Tweet not related to weather condition
+Can't go out because of the smog. Air quality is really bad. #pollution,0.8223,Negative
+Feeling the sand between my toes on a sunny beach day. #beachday,0.8923,Positive
+Caught in a sandstorm. Can't see anything. #sandstorm,0.8745,Negative
+Deforestation is a major issue. We need to protect our forests. RT @mention {link},0.9232,Neutral / author is just sharing information
+Join our music club. Let's make beautiful music together! @mention {link},0.9389,Tweet not related to weather condition
+Perfect weather for a bike ride. Enjoying the wind in my hair. #bikeride,0.9034,Positive
+Earthquakes can be devastating. Stay safe and follow local advisories. @mention {link},0.8821,Neutral / author is just sharing information
+"It's so cold, I can see my breath. #freezing",0.9121,Negative
+Watching the full moon on a clear night. It's mesmerizing. @mention {link},0.8923,Positive
+Support our local animal shelter. Let's give these animals a loving home. @mention {link},0.9589,Tweet not related to weather condition
+Can't go out because of the heavy snow. #snowday,0.9023,Negative
+Enjoying the autumn leaves. Nature's colors are truly beautiful. #autumnleaves,0.8923,Positive
+Caught in a blizzard. Can't see anything. #blizzard,0.8745,Negative
+Pollution is a major issue. We need to protect our environment. RT @mention {link},0.9232,Neutral / author is just sharing information
+Join our gardening club. Let's grow together! @mention {link},0.9389,Tweet not related to weather condition
+Perfect weather for a hike. Enjoying the fresh air. #hiking,0.9034,Positive
+Hurricanes can be devastating. Stay safe and follow local advisories. @mention {link},0.8821,Neutral / author is just sharing information
+"It's so hot, I need a cold drink. #heatwave",0.9121,Negative
+Watching the stars on a clear night. It's peaceful. @mention {link},0.8923,Positive
+Support our local food bank. Let's fight hunger together. @mention {link},0.9589,Tweet not related to weather condition
+Can't go out because of the heavy fog. #foggyday,0.9023,Negative
+Feeling the warmth of the sun on a spring day. #spring,0.8923,Positive
+Caught in a thunderstorm. Can't see anything. #thunderstorm,0.8745,Negative
+Conservation is important. We need to protect our wildlife. RT @mention {link},0.9232,Neutral / author is just sharing information
+Join our chess club. Let's improve our game together! @mention {link},0.9389,Tweet not related to weather condition
+Perfect weather for a boat ride. Enjoying the cool breeze. #boating,0.9034,Positive
+Wildfires can be devastating. Stay safe and follow local advisories. @mention {link},0.8821,Neutral / author is just sharing information
+"It's so cold, I need a hot drink. #coldweather",0.9121,Negative
+Watching the clouds on a lazy afternoon. It's relaxing. @mention {link},0.8923,Positive
+Support our local school. Education is important. @mention {link},0.9589,Tweet not related to weather condition
+Can't go out because of the heavy rain. #rainyday,0.9023,Negative
+Enjoying the cool shade on a hot summer day. #summer,0.7923,Positive
+Caught in a dust storm. Can't see anything. #duststorm,0.7745,Negative
+Recycling is important. We need to protect our planet. RT @mention {link},0.8232,Neutral / author is just sharing information
+Join our knitting club. Let's create together! @mention {link},0.8389,Tweet not related to weather condition
+Perfect weather for a run. Enjoying the fresh air. #running,0.8034,Positive
+Tsunamis can be devastating. Stay safe and follow local advisories. @mention {link},0.7821,Neutral / author is just sharing information
+"It's so hot, I need an ice cream. #hotweather",0.8121,Negative
+Watching the birds on a peaceful morning. It's calming. @mention {link},0.7923,Positive
+Support our local hospital. Health is wealth. @mention {link},0.8589,Tweet not related to weather condition
+Can't go out because of the smog. #smog,0.8023,Negative
+Feeling the chill of winter. Snowflakes are like nature's art. #winter,0.6923,Positive
+Caught in a cyclone. Can't see anything. #cyclone,0.6745,Negative
+Water conservation is important. We need to protect our resources. RT @mention {link},0.7232,Neutral / author is just sharing information
+Join our photography club. Let's capture moments together! @mention {link},0.7389,Tweet not related to weather condition
+Perfect weather for a drive. Enjoying the open road. #driving,0.7034,Positive
+Volcanic eruptions can be devastating. Stay safe and follow local advisories. @mention {link},0.6821,Neutral / author is just sharing information
+"It's so cold, I need a warm drink. #coldweather",0.7121,Negative
+Watching the wildlife on a peaceful afternoon. It's fascinating. @mention {link},0.6923,Positive
+Support our local community center. Community is strength. @mention {link},0.7589,Tweet not related to weather condition
+Can't go out because of the heat. #hotday,0.7023,Negative
+I hate this cold and snowy weather. It makes me feel depressed and lonely. #winterblues,0.8123,Negative
+"Wow, what a gorgeous day! The sun is shining, the birds are singing, and the flowers are blooming. I love spring! #happymood",0.9314,Positive
+Just saw a rainbow after the rain. It was so beautiful and colorful. I took a picture and posted it on my blog. {link},0.6789,Neutral / author is just sharing information
+"This weather is so unpredictable. One minute it's sunny, the next it's stormy. I don't know what to wear or do. #confused",0.5432,Negative
+I'm so excited for the weekend. I'm going to the beach with my friends and enjoy the warm and sunny weather. #funtime,0.8765,Positive
+"Weather forecast for tomorrow: cloudy with a chance of meatballs. Just kidding, it's going to be rainy and windy. #joke",0.4657,Tweet not related to weather condition
+"Today is a terrible day to go shopping. The weather is cold and rainy, the traffic is heavy and slow. #shopping",0.8762,Negative
+"Today is a great day to go gardening. The weather is warm and sunny, the soil is moist and fertile. #gardening",0.8764,Positive
+I'm so surprised by this weather. It's unexpected and unusual. I need some adaptation and flexibility. #surprised,0.8213,Negative
+I'm so delighted by this weather. It's pleasant and enjoyable. I need some appreciation and gratitude. #delighted,0.8214,Positive
+Look at this awesome cake I baked for the weather. It's so delicious and tasty. #cake {link},0.7921,Neutral / author is just sharing information
+Look at this terrible soup I cooked for the weather. It's so bland and watery. #soup {link},0.7922,Tweet not related to weather condition
+"Today is a good day to go skiing. The weather is snowy and chilly, the slopes are smooth and steep. #skiing",0.8764,Positive
+"Today is a bad day to go boating. The weather is stormy and rough, the waves are high and strong. #boating",0.8762,Negative
+Here's a joke about the weather: What do you call a fish that wears a bowtie? Sofishticated. #joke,0.5621,Neutral / author is just sharing information
+Here's a riddle about the weather: What has a face and two hands but no arms or legs? A clock. #riddle,0.5622,Neutral / author is just sharing information
+I love this weather. It's cozy and warm. I feel comfortable and snug. #cozy,0.9514,Positive
+I hate this weather. It's wet and cold. I feel uncomfortable and soggy. #wet,0.9512,Negative
+"Today is a great day to go camping. The weather is dry and clear, the stars are bright and beautiful. #camping",0.8764,Positive
+"Today is a terrible day to go golfing. The weather is humid and cloudy, the grass is wet and muddy. #golfing",0.8762,Negative
+I'm so annoyed by this weather. It's irritating and frustrating. I need some patience and tolerance. #annoyed,0.7612,Negative
+I'm so inspired by this weather. It's creative and stimulating. I need some expression and imagination. #inspired,0.7614,Positive
+Look at this beautiful necklace I made of the weather. It's so elegant and charming. #necklace {link},0.7821,Neutral / author is just sharing information
+Look at this horrible bracelet I made of the weather. It's so tacky and cheap. #bracelet {link},0.7822,Tweet not related to weather condition
+I love this weather. It's romantic and dreamy. I feel passionate and loving. #romantic,0.9514,Positive
+I hate this weather. It's lonely and depressing. I feel isolated and sad. #lonely,0.9512,Negative
+Did you play the game about the weather? It was so fun and challenging. I had a blast. #game,0.6821,Neutral / author is just sharing information
+Did you play the puzzle about the weather? It was so hard and frustrating. I gave up. #puzzle,0.6822,Tweet not related to weather condition
+"Today is a good day to go running. The weather is cool and breezy, the road is smooth and flat. #running",0.8764,Positive
+"Today is a bad day to go driving. The weather is foggy and smoggy, the visibility is low and poor. #driving",0.8762,Negative
+I'm so tired of this weather. It's boring and dull. I need some change and variety. #tired,0.6312,Negative
+I'm so happy with this weather. It's stable and consistent. I need some routine and order. #happy,0.6314,Positive
+"Here's a story about the weather: Once upon a time, there was a girl who loved the weather. She wanted to see all the different kinds of weather in the world. So she packed her bags and went on a journey. She saw rainbows and snowflakes, thunderstorms and sunsets, and many more. She was happy and amazed by the beauty of nature. #story",0.6621,Neutral / author is just sharing information
+"Here's a letter about the weather: Dear friend, I hope this letter finds you well. I wanted to tell you about the weather here. It's very cold and snowy. I have to wear a lot of layers and a hat and gloves. I like to make snowmen and snow angels, but sometimes I miss the sun and the warmth. How is the weather where you are? Write back soon. #letter",0.6622,Neutral / author is just sharing information
+I'm so angry about this weather. It's unfair and unjust. I need some justice and compensation. #angry,0.8112,Negative
+I'm so grateful for this weather. It's generous and kind. I need some gratitude and appreciation. #grateful,0.8114,Positive
+Look at this amazing mural I painted of the weather. It's so vivid and expressive. #mural {link},0.7921,Neutral / author is just sharing information
+Look at this terrible graffiti I sprayed of the weather. It's so ugly and offensive. #graffiti {link},0.7922,Tweet not related to weather condition
+I love this weather. It's adventurous and exciting. I feel brave and daring. #adventurous,0.9514,Positive
+I hate this weather. It's dangerous and risky. I feel scared and nervous. #dangerous,0.9512,Negative
+Did you listen to the podcast about the weather? It was so interesting and informative. I learned a lot. #podcast,0.6821,Neutral / author is just sharing information
+Did you listen to the music about the weather? It was so soothing and relaxing. I enjoyed it. #music,0.6822,Neutral / author is just sharing information
+"Today is a good day to go biking. The weather is mild and pleasant, the scenery is beautiful and green. #biking",0.8764,Positive
+"Today is a bad day to go flying. The weather is stormy and rough, the flights are cancelled and delayed. #flying",0.8762,Negative
+I'm so tired of this weather. It's stressful and demanding. I need some peace and calm. #tired,0.8312,Negative
+I'm so happy with this weather. It's relaxing and soothing. I need some rest and comfort. #happy,0.8314,Positive
+Here's a haiku about the weather: Raindrops on the roof / A gentle melody plays / I fall asleep soon. #haiku,0.5621,Neutral / author is just sharing information
+"Here's a sonnet about the weather: Shall I compare thee to a summer's day? / Thou art more lovely and more temperate / Rough winds do shake the darling buds of May / And summer's lease hath all too short a date / Sometime too hot the eye of heaven shines / And often is his gold complexion dimmed / And every fair from fair sometime declines / By chance or nature's changing course untrimmed / But thy eternal summer shall not fade / Nor lose possession of that fair thou ow'st / Nor shall death brag thou wander'st in his shade / When in eternal lines to time thou grow'st / So long as men can breathe or eyes can see / So long lives this, and this gives life to thee. #sonnet",0.6622,Neutral / author is just sharing information
+"Here's a rap about the weather: Yo yo yo, check it out, I'm here to rap about the weather / It's cold and wet, but I don't sweat, I got my hoodie and my sweater / I don't care about the rain or the snow or the sleet / I got my rhymes and my beats and my flow is so sweet / I'm not afraid of the thunder or the lightning or the hail / I got my mic and my skills and my rap is off the scale / I'm the master of the weather, I can make it hot or cold / I can make it sunny or cloudy or windy or bold / I'm the weatherman, yo, and I'm here to say / No matter what the weather, I can make you feel okay. #rap",0.5621,Neutral / author is just sharing information
+I love this weather. It's calm and serene. I feel peaceful and tranquil. #calm,0.9514,Positive
+I hate this weather. It's chaotic and turbulent. I feel restless and agitated. #chaotic,0.9512,Negative
+Did you watch the documentary about the weather? It was so fascinating and enlightening. I learned a lot. #documentary,0.6821,Neutral / author is just sharing information
+Did you watch the comedy about the weather? It was so hilarious and entertaining. I laughed a lot. #comedy,0.6822,Neutral / author is just sharing information
+"Today is a good day to go sightseeing. The weather is clear and beautiful, the views are stunning and amazing. #sightseeing",0.8764,Positive
+"Today is a bad day to go picnicking. The weather is cloudy and gloomy, the mood is dull and boring. #picnicking",0.8762,Negative
+I'm so tired of this weather. It's monotonous and repetitive. I need some novelty and diversity. #tired,0.6312,Negative
+I'm so happy with this weather. It's familiar and comfortable. I need some stability and security. #happy,0.6314,Positive
+"Here's a recipe about the weather: To make a snow cone, you need some shaved ice and some flavored syrup. You can use any flavor you like, such as strawberry, lemon, or grape. You can also add some toppings, such as whipped cream, sprinkles, or nuts. Enjoy your refreshing and delicious treat. #recipe",0.5621,Neutral / author is just sharing information
+"Here's a review about the weather: I bought this umbrella online, and I regret it. It's the worst umbrella ever. It's flimsy and weak, it breaks easily and leaks water. It doesn't protect me from the rain or the wind. It's a waste of money and time. Don't buy this umbrella. #review",0.5622,Tweet not related to weather condition
+I'm so scared of this weather. It's menacing and threatening. I need some protection and defense. #scared,0.8213,Negative
+I'm so amazed by this weather. It's marvelous and wonderful. I need some admiration and awe. #amazed,0.8214,Positive
+Look at this awesome poster I made of the weather. It's so catchy and attractive. #poster {link},0.7921,Neutral / author is just sharing information
+Look at this terrible flyer I made of the weather. It's so boring and unappealing. #flyer {link},0.7922,Tweet not related to weather condition
+I love this weather. It's lively and vibrant. I feel energetic and enthusiastic. #lively,0.9514,Positive
+I hate this weather. It's dull and lifeless. I feel lethargic and apathetic. #dull,0.9512,Negative
+Did you listen to the audiobook about the weather? It was so captivating and engaging. I listened to it all. #audiobook,0.6821,Neutral / author is just sharing information
+Did you listen to the radio about the weather? It was so annoying and irritating. I turned it off. #radio,0.6822,Tweet not related to weather condition
+"Today is a good day to go birdwatching. The weather is sunny and bright, the birds are colorful and cheerful. #birdwatching",0.8764,Positive
+"Today is a bad day to go stargazing. The weather is cloudy and dark, the stars are hidden and dim. #stargazing",0.8762,Negative
+I'm so tired of this weather. It's demanding and exhausting. I need some rest and relaxation. #tired,0.8312,Negative
+I'm so happy with this weather. It's relaxing and soothing. I need some comfort and peace. #happy,0.8314,Positive
+Here's a crossword about the weather: Across: 1. A large body of air with uniform temperature and humidity. 5. A violent storm with strong winds and rain. 6. A thin layer of ice that forms on the ground. Down: 2. A natural phenomenon that produces a bright flash of light. 3. A mass of water vapor that floats in the sky. 4. A form of precipitation that falls as frozen water. #crossword,0.5621,Neutral / author is just sharing information
+"Here's a sudoku about the weather: Fill in the grid with numbers from 1 to 9, so that each row, column, and 3x3 box contains each number exactly once. The numbers represent different types of weather: 1. Sunny, 2. Cloudy, 3. Rainy, 4. Snowy, 5. Windy, 6. Foggy, 7. Stormy, 8. Hail, 9. Thunder. #sudoku",0.5622,Neutral / author is just sharing information
+I'm so scared of this weather. It's spooky and creepy. I need some courage and bravery. #scared,0.8213,Negative
+I'm so curious about this weather. It's interesting and mysterious. I need some knowledge and learning. #curious,0.8214,Positive
+Look at this awesome shirt I made of the weather. It's so stylish and trendy. #shirt {link},0.7921,Neutral / author is just sharing information
+Look at this terrible hat I made of the weather. It's so ugly and outdated. #hat {link},0.7922,Tweet not related to weather condition
+I love this weather. It's fun and playful. I feel joyful and happy. #fun,0.9514,Positive
+I hate this weather. It's boring and dull. I feel sad and unhappy. #boring,0.9512,Negative
+Did you read the blog about the weather? It was so insightful and helpful. I learned a lot. #blog,0.6821,Neutral / author is just sharing information
+Did you read the tweet about the weather? It was so rude and mean. I hated it. #tweet,0.6822,Tweet not related to weather condition
+"Today is a good day to go skating. The weather is icy and slippery, the rink is smooth and shiny. #skating",0.8764,Positive
+"Today is a bad day to go gardening. The weather is dry and dusty, the plants are wilted and dying. #gardening",0.8762,Negative
+I'm so tired of this weather. It's hot and humid. I need some cool and dry. #tired,0.6312,Negative
+I'm so happy with this weather. It's cold and crisp. I need some warm and cozy. #happy,0.6314,Positive
+"Here's a quiz about the weather: What is the name of the instrument that measures atmospheric pressure? A. Barometer, B. Thermometer, C. Hygrometer, D. Anemometer. The correct answer is A. Barometer. #quiz",0.6621,Neutral / author is just sharing information
+"Here's a survey about the weather: What is your favorite type of weather? A. Sunny, B. Cloudy, C. Rainy, D. Snowy. Please answer with A, B, C, or D. #survey",0.6622,Neutral / author is just sharing information
+This storm is scary. I hope everyone is safe and sound. #pray,0.7217,Negative
+@mention That sounds awesome. Have fun and take lots of pictures. {link},0.6134,Neutral / author is just sharing information
+Going to the movies with my bestie. We're watching the new Marvel movie. #excited {link},0.6896,Tweet not related to weather condition
+Today is a great day to go for a walk. The air is fresh and the flowers are blooming. #spring,0.8264,Positive
+I can't stand this fog. It's so depressing. #foggy,0.7338,Negative
+@mention That's amazing. Congratulations. #proud,0.6217,Neutral / author is just sharing information
+Having a barbecue with my family. The food is delicious and the weather is perfect. #yum,0.7934,Positive
+This drought is terrible. The grass is brown and the trees are dying. #savewater,0.7076,Negative
+Check out this cool video I made. It's a compilation of my favorite moments from the past year. #memories {link},0.6565,Tweet not related to weather condition
+Feeling festive in my new hat. It's so cute and colorful. #halloween,0.7726,Positive
+This wind is annoying. It's blowing my hair everywhere. #badhairday,0.7259,Negative
+@mention That's awesome. I'm happy for you. #goodnews,0.6119,Neutral / author is just sharing information
+Going to a concert with my girlfriend. It's our favorite band. #romantic {link},0.6978,Tweet not related to weather condition
+Today is a beautiful day. The sun is shining and the birds are singing. #happy,0.8387,Positive
+I hate this weather. It's so hot and dry. #firehazard,0.7412,Negative
+@mention That's terrible. I'm sorry to hear that. #sorry,0.6312,Neutral / author is just sharing information
+Having a spa day with my mom. It's so relaxing and soothing. #treatyourself,0.7814,Positive
+This flood is devastating. I hope everyone is okay. #help,0.7296,Negative
+Look at this awesome cake I made. It's chocolate with vanilla frosting. #delicious {link},0.6446,Tweet not related to weather condition
+Feeling adventurous in my new boots. They're so comfy and stylish. #boots,0.7629,Positive
+This weather is boring. It's always cloudy and gray. #dull,0.7374,Negative
+@mention That's hilarious. I can't stop laughing. #lol,0.6214,Neutral / author is just sharing information
+Going to the zoo with my kids. They're so excited to see the animals. #fun {link},0.7059,Tweet not related to weather condition
+Today is a wonderful day. The sky is clear and the temperature is mild. #perfect,0.8411,Positive
+I hate this weather. It's so cold and snowy. #freezing,0.7447,Negative
+@mention That's awesome. I'm glad you liked it. #yourewelcome,0.6317,Neutral / author is just sharing information
+Having a pizza party with my friends. The pizza is cheesy and the weather is breezy. #pizza,0.7947,Positive
+This earthquake is terrifying. I hope everyone is safe and sound. #earthquake,0.7275,Negative
+Look at this amazing painting I made. It's inspired by the colors of the autumn. #art {link},0.6527,Tweet not related to weather condition
+Feeling sporty in my new jersey. It's so cool and comfortable. #soccer,0.7712,Positive
+This weather is awful. It's raining cats and dogs. #wet,0.7391,Negative
+@mention That's great. I'm happy for you. #congrats,0.6219,Neutral / author is just sharing information
+Going to the mall with my sister. We're going to buy some new clothes and accessories. #shopping {link},0.7039,Tweet not related to weather condition
+Today is a lovely day. The clouds are fluffy and the wind is gentle. #calm,0.8434,Positive
+I hate this weather. It's so hot and humid. #sticky,0.7481,Negative
+@mention That's awful. I hope you feel better soon. #getwellsoon,0.6412,Neutral / author is just sharing information
+Having a tea party with my daughter. She's so adorable and the weather is nice. #tea,0.7961,Positive
+This tornado is frightening. I hope everyone is safe and sound. #tornado,0.7254,Negative
+Look at this cute kitten I adopted. She's so fluffy and cuddly. #catlover {link},0.6609,Tweet not related to weather condition
+Feeling elegant in my new dress. It's so chic and classy. #dress,0.7696,Positive
+This weather is terrible. It's stormy and dark. #thunder,0.7426,Negative
+@mention That's amazing. I'm proud of you. #well done,0.6321,Neutral / author is just sharing information
+Going to the park with my dog. He's so happy and the weather is sunny. #doglover {link},0.7119,Positive
+This heat is unbearable. I need some ice cream. #icecream,0.7156,Negative
+Look at this funny meme I found. It's so relatable and hilarious. #meme {link},0.6688,Tweet not related to weather condition
+Feeling smart in my new glasses. They're so trendy and practical. #glasses,0.7679,Positive
+This weather is horrible. It's foggy and smoggy. #pollution,0.7462,Negative
+@mention That's awesome. I'm happy for you. #awesome,0.6426,Neutral / author is just sharing information
+Going to the library with my friend. We're going to read some books and enjoy the quiet. #library {link},0.7098,Tweet not related to weather condition
+Today is a splendid day. The rainbow is bright and the rain is light. #rainbow,0.8458,Positive
+I hate this weather. It's so windy and dusty. #dusty,0.7514,Negative
+@mention That's terrible. I'm sorry to hear that. #condolences,0.6507,Neutral / author is just sharing information
+Having a coffee break with my colleague. We're chatting about the latest news and the weather. #coffee,0.7974,Positive
+This weather is dreadful. It's icy and slippery. #icy,0.7548,Negative
+@mention That's wonderful. I'm happy for you. #wonderful,0.6532,Neutral / author is just sharing information
+Going to the gym with my brother. We're going to work out and get fit. #fitness {link},0.7158,Tweet not related to weather condition
+Today is a marvelous day. The sun is bright and the air is crisp. #marvelous,0.8471,Positive
+I hate this weather. It's so cloudy and rainy. #cloudy,0.7567,Negative
+@mention That's fantastic. I'm proud of you. #fantastic,0.6637,Neutral / author is just sharing information
+Going to the museum with my class. We're going to learn about history and culture. #museum {link},0.7218,Tweet not related to weather condition
+Today is a glorious day. The stars are twinkling and the moon is full. #glorious,0.8485,Positive
+I hate this weather. It's so smoky and hazy. #smoky,0.7619,Negative
+@mention That's incredible. I'm amazed by you. #incredible,0.6743,Neutral / author is just sharing information
+Going to the carnival with my cousin. We're going to have fun and enjoy the rides. #carnival {link},0.7277,Tweet not related to weather condition
+Today is a fabulous day. The flowers are fragrant and the bees are buzzing. #fabulous,0.8498,Positive
+I hate this weather. It's so stormy and windy. #stormy,0.7671,Negative
+Going to the spa with my aunt. We're going to relax and pamper ourselves. #spa {link},0.7337,Tweet not related to weather condition
+Today is a magnificent day. The birds are chirping and the sky is blue. #magnificent,0.8512,Positive
+I hate this weather. It's so foggy and misty. #foggy,0.7724,Negative
+@mention That's splendid. I'm impressed by you. #splendid,0.6956,Neutral / author is just sharing information
+Going to the bakery with my grandma. We're going to buy some bread and pastries. #bakery {link},0.7396,Tweet not related to weather condition
+Today is a terrific day. The grass is green and the sun is warm. #terrific,0.8525,Positive
+I hate this weather. It's so humid and sticky. #humid,0.7776,Negative
+@mention That's excellent. I'm glad you liked it. #excellent,0.7063,Neutral / author is just sharing information
+Going to the farm with my nephew. We're going to see some animals and feed them. #farm {link},0.7456,Tweet not related to weather condition
+Today is a wonderful day. The breeze is gentle and the clouds are soft. #wonderful,0.8539,Positive
+I hate this weather. It's so hot and dry. #hot,0.783,Negative
+@mention That's superb. I'm delighted for you. #superb,0.717,Neutral / author is just sharing information
+Going to the beach with my girlfriend. We're going to swim and sunbathe. #beach {link},0.7515,Tweet not related to weather condition
+Today is a fantastic day. The snow is white and the trees are frosty. #fantastic,0.8552,Positive
+I hate this weather. It's so cold and wet. #cold,0.7883,Negative
+@mention That's amazing. I'm proud of you. #amazing,0.7277,Neutral / author is just sharing information
+Going to the casino with my husband. We're going to gamble and have fun. #casino {link},0.7575,Tweet not related to weather condition
+Today is a brilliant day. The lake is calm and the fish are jumping. #brilliant,0.8566,Positive
+I hate this weather. It's so dark and gloomy. #dark,0.7937,Negative
+Going to the concert with my wife. We're going to listen to some music and dance. #concert {link},0.7634,Tweet not related to weather condition
+Today is a beautiful day. The rainbow is colorful and the rain is gentle. #beautiful,0.858,Positive
+I hate this weather. It's so dusty and dirty. #dusty,0.799,Negative
+@mention That's awesome. I'm glad you enjoyed it. #awesome,0.7492,Neutral / author is just sharing information
+Going to the cinema with my boyfriend. We're going to watch a movie and cuddle. #cinema {link},0.7694,Tweet not related to weather condition
+Today is a lovely day. The sun is shining and the air is fresh. #lovely,0.8593,Positive
+I hate this weather. It's so rainy and muddy. #rainy,0.8044,Negative
+@mention That's fantastic. I'm impressed by you. #fantastic,0.76,Neutral / author is just sharing information
+Going to the park with my dog. We're going to play and run. #park {link},0.7753,Tweet not related to weather condition
+Today is a great day. The sky is clear and the temperature is mild. #great,0.8607,Positive
+I hate this weather. It's so smoggy and polluted. #smoggy,0.8097,Negative
+Going to the restaurant with my family. We're going to eat some delicious food and chat. #restaurant {link},0.7813,Tweet not related to weather condition
+Today is a nice day. The flowers are blooming and the bees are humming. #nice,0.862,Positive
+I hate this weather. It's so windy and noisy. #windy,0.8151,Negative
+@mention That's splendid. I'm delighted for you. #splendid,0.7815,Neutral / author is just sharing information
+Going to the club with my friends. We're going to drink and party. #club {link},0.7872,Tweet not related to weather condition
+Today is a good day. The grass is soft and the birds are singing. #good,0.8634,Positive
+Having a smoothie break with my neighbor. We're talking about the latest gossip and the weather. #smoothie,0.7997,Positive
+This weather is awful. It's snowy and icy. #snowy,0.7603,Negative
+@mention That's excellent. I'm happy for you. #excellent,0.6639,Neutral / author is just sharing information
+Going to the bookstore with my dad. We're going to buy some books and magazines. #bookstore {link},0.7891,Tweet not related to weather condition
+Today is a awesome day. The stars are bright and the night is cool. #awesome,0.8648,Positive
+I hate this weather. It's so rainy and foggy. #rainy,0.816,Negative
+@mention That's superb. I'm proud of you. #superb,0.7744,Neutral / author is just sharing information
+Going to the market with my mom. We're going to buy some fruits and vegetables. #market {link},0.795,Tweet not related to weather condition
+Today is a amazing day. The sun is warm and the breeze is gentle. #amazing,0.8661,Positive
+I hate this weather. It's so hot and humid. #hot,0.8216,Negative
+@mention That's wonderful. I'm glad you liked it. #wonderful,0.785,Neutral / author is just sharing information
+Going to the cafe with my sister. We're going to have some coffee and cake. #cafe {link},0.801,Tweet not related to weather condition
+Today is a lovely day. The flowers are blooming and the birds are chirping. #lovely,0.8675,Positive
+I hate this weather. It's so cold and windy. #cold,0.8273,Negative
+@mention That's awesome. I'm impressed by you. #awesome,0.7957,Neutral / author is just sharing information
+Going to the salon with my friend. We're going to get our hair and nails done. #salon {link},0.8069,Tweet not related to weather condition
+Today is a beautiful day. The sky is blue and the clouds are fluffy. #beautiful,0.8688,Positive
+I hate this weather. It's so cloudy and gloomy. #cloudy,0.833,Negative
+@mention That's fantastic. I'm happy for you. #fantastic,0.8063,Neutral / author is just sharing information
+Going to the pizza place with my brother. We're going to eat some pizza and salad. #pizza {link},0.8129,Tweet not related to weather condition
+Today is a great day. The grass is green and the sun is shining. #great,0.8702,Positive
+Going to the gym with my cousin. We're going to work out and sweat. #gym {link},0.8188,Tweet not related to weather condition
+Today is a nice day. The air is fresh and the temperature is mild. #nice,0.8715,Positive
+Going to the mall with my girlfriend. We're going to shop and have fun. #mall {link},0.8248,Tweet not related to weather condition
+Today is a good day. The wind is gentle and the rain is light. #good,0.8729,Positive
+I hate this weather. It's so stormy and thunderous. #stormy,0.8502,Negative
+@mention That's wonderful. I'm proud of you. #wonderful,0.8383,Neutral / author is just sharing information
+Today is a fabulous day. The rainbow is colorful and the rain is gentle. #fabulous,0.8742,Positive
+Going to the movies with my boyfriend. We're going to watch a romantic comedy and laugh. #movies {link},0.8367,Tweet not related to weather condition
+Today is a terrific day. The snow is white and the trees are frosty. #terrific,0.8756,Positive
+@mention That's superb. I'm happy for you. #superb,0.8596,Neutral / author is just sharing information
+Going to the museum with my dad. We're going to see some paintings and sculptures. #museum {link},0.8426,Tweet not related to weather condition
+Today is a wonderful day. The sun is bright and the air is crisp. #wonderful,0.8769,Positive
+I hate this weather. It's so cold and snowy. #cold,0.8674,Negative
+Going to the bakery with my mom. We're going to buy some bread and pastries. #bakery {link},0.8486,Tweet not related to weather condition
+Going to the bookstore with my sister. We're going to buy some books and magazines. #bookstore {link},0.8545,Tweet not related to weather condition
+I hate this weather. It's so windy and dusty. #windy,0.8789,Negative
+Going to the cafe with my friend. We're going to have some coffee and cake. #cafe {link},0.8605,Tweet not related to weather condition
+Going to the salon with my aunt. We're going to get our hair and nails done. #salon {link},0.8664,Tweet not related to weather condition
+Going to the market with my grandma. We're going to buy some fruits and vegetables. #market {link},0.8843,Tweet not related to weather condition
+Having a salad break with my coworker. We're talking about the latest project and the weather. #salad,0.6423,Positive
+This weather is terrible. It's hazy and smoggy. #hazy,0.7626,Negative
+Having a sushi break with my boss. We're talking about the latest deal and the weather. #sushi,0.6378,Positive
+Going to the zoo with my nephew. We're going to see some animals and feed them. #zoo {link},0.6534,Positive
+Feeling cozy in my new blanket. It's so soft and warm. #cozy,0.6621,Positive
+Going to the concert with my wife. It's our favorite band. #concert {link},0.6789,Positive
+Feeling grateful for this sunny day. It's been raining for weeks. #grateful,0.6923,Positive
+Going to the farm with my kids. They're so excited to see the animals. #farm {link},0.7042,Positive
+Feeling festive in my new hat. It's so cute and colorful. #festive,0.7136,Positive
+Going to the beach with my girlfriend. It's going to be so much fun. #beach {link},0.7239,Positive
+Feeling smart in my new glasses. They're so trendy and practical. #smart,0.7325,Positive
+Going to the movies with my bestie. We're watching the new Marvel movie. #movies {link},0.7428,Positive
+Feeling sporty in my new jersey. It's so cool and comfortable. #sporty,0.7514,Positive
+Going to the park with my dog. He's so happy and the weather is sunny. #park {link},0.7619,Positive
+Feeling elegant in my new dress. It's so chic and classy. #elegant,0.7697,Positive
+Feeling adventurous in my new boots. They're so comfy and stylish. #adventurous,0.7863,Positive
+Going to the spa with my mom. It's so relaxing and soothing. #spa {link},0.7949,Positive
+Feeling festive in my new sweater. It's so soft and warm. #festive,0.8027,Positive
+Feeling cozy in my new pajamas. They're so cute and comfy. #cozy,0.8192,Positive
+@mention That's amazing. I'm happy for you. #amazing,0.6754,Neutral / author is just sharing information
+Going to the library with my mom. We're going to read some books and magazines. #library {link},0.7934,Tweet not related to weather condition
+Going to the market with my dad. We're going to buy some fruits and vegetables. #market {link},0.7991,Tweet not related to weather condition
+Going to the cafe with my brother. We're going to have some coffee and cake. #cafe {link},0.805,Tweet not related to weather condition
+Going to the pizza place with my sister. We're going to eat some pizza and salad. #pizza {link},0.8167,Tweet not related to weather condition
+@mention I’m sorry to hear that. I hope you are safe and well. #sorry,0.6721,Neutral / author is just sharing information
+Going to the beach with my friends. We’re going to have fun and enjoy the waves. #beach {link},0.7294,Tweet not related to weather condition
+Today is a terrible day. The rain is pouring and the thunder is roaring. #terrible,0.7629,Negative
+I love this weather. It’s so crisp and clear. #crisp,0.8517,Positive
+@mention That’s awesome. I’m happy for you. #awesome,0.6738,Neutral / author is just sharing information
+Going to the park with my dog. We’re going to have fun and enjoy the grass. #park {link},0.7286,Tweet not related to weather condition
+Today is a wonderful day. The breeze is gentle and the birds are singing. #wonderful,0.8549,Positive
+I hate this weather. It’s so humid and sticky. #humid,0.7665,Negative
+@mention I’m glad to hear that. I hope you have a great day. #glad,0.6714,Neutral / author is just sharing information
+Going to the library with my sister. We’re going to read and learn. #library {link},0.7221,Tweet not related to weather condition
+Today is a beautiful day. The sky is blue and the clouds are white. #beautiful,0.8562,Positive
+I hate this weather. It’s so foggy and gloomy. #foggy,0.7647,Negative
+@mention I’m worried about you. I hope you are okay. #worried,0.6708,Neutral / author is just sharing information
+Going to the cinema with my brother. We’re going to watch and enjoy. #cinema {link},0.7268,Tweet not related to weather condition
+Today is a lovely day. The sun is shining and the flowers are blooming. #lovely,0.8555,Positive
+I hate this weather. It’s so stormy and windy. #stormy,0.7671,Negative
+@mention I’m proud of you. I hope you keep it up. #proud,0.6725,Neutral / author is just sharing information
+Going to the gym with my friend. We’re going to exercise and sweat. #gym {link},0.725,Tweet not related to weather condition
+Today is a splendid day. The air is fresh and the trees are green. #splendid,0.8568,Positive
+I hate this weather. It’s so chilly and rainy. #chilly,0.7633,Negative
+@mention I’m surprised by you. I hope you explain yourself. #surprised,0.6692,Neutral / author is just sharing information
+Going to the mall with my mom. We’re going to shop and spend. #mall {link},0.7232,Tweet not related to weather condition
+Today is a fantastic day. The stars are bright and the moon is full. #fantastic,0.8574,Positive
+I hate this weather. It’s so cloudy and dark. #cloudy,0.7621,Negative
+@mention I’m impressed by you. I hope you continue to grow. #impressed,0.6732,Neutral / author is just sharing information
+Going to the zoo with my dad. We’re going to see and learn. #zoo {link},0.7244,Tweet not related to weather condition
+Today is a marvelous day. The rainbow is colorful and the birds are chirping. #marvelous,0.858,Positive
+I hate this weather. It’s so windy and dusty. #windy,0.7609,Negative
+@mention I’m disappointed by you. I hope you apologize. #disappointed,0.668,Neutral / author is just sharing information
+Going to the spa with my partner. We’re going to relax and pamper. #spa {link},0.7224,Tweet not related to weather condition
+Today is a amazing day. The snow is white and the fire is warm. #amazing,0.8586,Positive
+I hate this weather. It’s so stormy and scary. #stormy,0.7597,Negative
+@mention I’m grateful to you. I hope you know how much I appreciate you. #grateful,0.674,Neutral / author is just sharing information
+Going to the school with my teacher. We’re going to study and improve. #school {link},0.7216,Tweet not related to weather condition
+Today is a awesome day. The lake is calm and the boat is ready. #awesome,0.8592,Positive
+I hate this weather. It’s so smoggy and polluted. #smoggy,0.7585,Negative
+@mention I’m curious about you. I hope you tell me more. #curious,0.6688,Neutral / author is just sharing information
+Going to the restaurant with my family. We’re going to eat and enjoy. #restaurant {link},0.7208,Tweet not related to weather condition
+Today is a great day. The grass is soft and the picnic is prepared. #great,0.8598,Positive
+I hate this weather. It’s so icy and slippery. #icy,0.7573,Negative
+@mention I’m excited for you. I hope you have a blast. #excited,0.6756,Neutral / author is just sharing information
+Going to the concert with my bestie. We’re going to listen and dance. #concert {link},0.72,Tweet not related to weather condition
+Today is a nice day. The temperature is perfect and the breeze is cool. #nice,0.8604,Positive
+I hate this weather. It’s so muddy and dirty. #muddy,0.7561,Negative
+@mention I’m sad for you. I hope you feel better soon. #sad,0.6676,Neutral / author is just sharing information
+Going to the museum with my class. We’re going to learn and explore. #museum {link},0.7192,Tweet not related to weather condition
+Today is a good day. The coffee is hot and the toast is crispy. #good,0.861,Positive
+I hate this weather. It’s so hazy and dull. #hazy,0.7549,Negative
+@mention I’m happy for you. I hope you enjoy yourself. #happy,0.6764,Neutral / author is just sharing information
+Going to the party with my crush. We’re going to talk and flirt. #party {link},0.7184,Tweet not related to weather condition
+Today is a cool day. The music is loud and the mood is high. #cool,0.8616,Positive
+I hate this weather. It’s so sunny and bright. #sunny,0.7537,Negative
+@mention I’m angry with you. I hope you realize your mistake. #angry,0.6664,Neutral / author is just sharing information
+Going to the game with my team. We’re going to play and win. #game {link},0.7176,Tweet not related to weather condition
+Today is a fun day. The carnival is open and the rides are thrilling. #fun,0.8622,Positive
+I hate this weather. It’s so rainy and wet. #rainy,0.7525,Negative
+@mention I’m sorry for you. I hope you get through this. #sorry,0.6772,Neutral / author is just sharing information
+Going to the church with my grandma. We’re going to pray and worship. #church {link},0.7168,Tweet not related to weather condition
+Today is a sweet day. The cake is delicious and the candles are lit. #sweet,0.8628,Positive
+I hate this weather. It’s so dry and arid. #dry,0.7513,Negative
+@mention I’m amazed by you. I hope you keep surprising me. #amazed,0.6652,Neutral / author is just sharing information
+Going to the market with my neighbor. We’re going to buy and bargain. #market {link},0.716,Tweet not related to weather condition
+Today is a relaxing day. The bath is warm and the bubbles are soft. #relaxing,0.8634,Positive
+I hate this weather. It’s so foggy and misty. #foggy,0.7501,Negative
+@mention I’m inspired by you. I hope you keep creating. #inspired,0.678,Neutral / author is just sharing information
+Going to the farm with my uncle. We’re going to feed and pet. #farm {link},0.7152,Tweet not related to weather condition
+Today is a cozy day. The blanket is fluffy and the book is interesting. #cozy,0.864,Positive
+I hate this weather. It’s so dull and dreary. #dull,0.7441,Negative
+@mention I’m interested in you. I hope you feel the same. #interested,0.6596,Neutral / author is just sharing information
+Going to the bakery with my aunt. We’re going to taste and buy. #bakery {link},0.7104,Tweet not related to weather condition
+Today is a charming day. The pond is clear and the ducks are quacking. #charming,0.8642,Positive
+I hate this weather. It’s so wet and slippery. #wet,0.7431,Negative
+@mention I’m sorry with you. I hope you forgive me. #sorry,0.6588,Neutral / author is just sharing information
+Going to the club with my date. We’re going to drink and kiss. #club {link},0.7096,Tweet not related to weather condition
+Today is a delightful day. The cake is moist and the frosting is sweet. #delightful,0.8648,Positive
+I hate this weather. It’s so dry and cracked. #dry,0.7421,Negative
+@mention I’m happy with you. I hope you stay with me. #happy,0.66,Neutral / author is just sharing information
+Going to the salon with my friend. We’re going to cut and dye. #salon {link},0.7088,Tweet not related to weather condition
+Today is a gorgeous day. The ocean is blue and the waves are crashing. #gorgeous,0.8654,Positive
+I hate this weather. It’s so smoky and fiery. #smoky,0.7411,Negative
+@mention I’m angry at you. I hope you change your ways. #angry,0.6572,Neutral / author is just sharing information
+Going to the casino with my cousin. We’re going to gamble and lose. #casino {link},0.708,Tweet not related to weather condition
+Today is a stunning day. The mountain is high and the snow is sparkling. #stunning,0.866,Positive
+I hate this weather. It’s so stormy and thunderous. #stormy,0.7401,Negative
+@mention I’m proud of you. I hope you keep shining. #proud,0.6612,Neutral / author is just sharing information
+Going to the karaoke with my sister. We’re going to sing and scream. #karaoke {link},0.7072,Tweet not related to weather condition
+I hate this weather. It’s so foggy and damp. #foggy,0.7371,Negative
+Going to the park with my grandma. We’re going to feed and watch. #park {link},0.7032,Tweet not related to weather condition
+Going to the mall with my cousin. We’re going to shop and spend. #mall {link},0.7024,Tweet not related to weather condition
+I hate this weather. It’s so cold and snowy. #cold,0.7351,Negative
+Going to the cinema with my friend. We’re going to watch and enjoy. #cinema {link},0.7016,Tweet not related to weather condition
+I hate this weather. It’s so hot and dry. #hot,0.7341,Negative
+I love this weather. It’s so sunny and warm. #sunny,0.8742,Positive
+I hate this weather. It’s so cold and frosty. #cold,0.7271,Negative
+Today is a cheerful day. The balloons are flying and the kids are laughing. #cheerful,0.8748,Positive
+Today is a dreamy day. The clouds are fluffy and the sky is pink. #dreamy,0.8754,Positive
+I hate this weather. It’s so smoky and ashy. #smoky,0.7241,Negative
+I love this weather. It’s so crisp and clean. #crisp,0.8772,Positive
+I hate this weather. It’s so foggy and murky. #foggy,0.7221,Negative
+Today is a fabulous day. The rainbow is colorful and the birds are chirping. #fabulous,0.8778,Positive
+I hate this weather. It’s so humid and muggy. #humid,0.7211,Negative
+Today is a awesome day. The snow is white and the fire is warm. #awesome,0.8784,Positive
+I hate this weather. It’s so hot and sweaty. #hot,0.7201,Negative
+I love this weather. It’s so calm and peaceful. #calm,0.8822,Positive
+I hate this weather. It’s so noisy and chaotic. #noisy,0.7141,Negative
+@mention I’m fond of you. I hope you like me too. #fond,0.6376,Neutral / author is just sharing information
+Going to the lake with my grandpa. We’re going to fish and relax. #lake {link},0.6844,Tweet not related to weather condition
+Today is a blissful day. The sun is warm and the breeze is cool. #blissful,0.8828,Positive
+@mention I’m loyal to you. I hope you trust me. #loyal,0.6368,Neutral / author is just sharing information
+Going to the mountain with my dad. We’re going to ski and slide. #mountain {link},0.6836,Tweet not related to weather condition
+Going to the forest with my mom. We’re going to walk and enjoy. #forest {link},0.6828,Tweet not related to weather condition
+I hate this weather. It’s so cold and shivery. #cold,0.7111,Negative
+@mention I’m jealous of you. I hope you share some pictures. #jealous,0.6352,Neutral / author is just sharing information
+Going to the beach with my aunt. We’re going to swim and sunbathe. #beach {link},0.682,Tweet not related to weather condition
+I love this weather. It’s so fresh and clean. #fresh,0.8788,Positive
+I hate this weather. It’s so dull and dirty. #dull,0.7111,Negative
+I hate this weather. It’s so wet and soggy. #wet,0.7101,Negative
+Snow day! Time to curl up with a good book and a hot chocolate. #winterwonderland,0.7634,Positive
+Can't believe how hot it is today. I'm sweating like a pig. #globalwarming,0.6812,Negative
+@mention Thanks for the weather update. I hope you stay safe and dry. {link},0.5943,Neutral / author is just sharing information
+Who else is excited for the meteor shower tonight? #stargazing,0.8321,Positive
+This fog is so thick I can barely see anything. #drivesafe,0.7126,Negative
+Check out this amazing rainbow I saw on my way home. #natureisbeautiful {link},0.7865,Positive
+Another day of rain and gloom. I need some sunshine in my life. #depressed,0.7419,Negative
+"Wow, this storm is crazy. I can hear thunder and lightning. #scared",0.6587,Negative
+Happy Earth Day! Let's all do our part to protect our planet and its climate. #earthday,0.6198,Neutral / author is just sharing information
+Love this song! It always reminds me of summer and the beach. #goodvibes {link},0.6475,Tweet not related to weather condition
+Beautiful sunset today. I love this time of the year. #nofilter {link},0.7798,Positive
+I hate this weather. It's so cold and windy. #brrr,0.6984,Negative
+@mention I'm sorry to hear that. I hope you feel better soon. #getwellsoon,0.6236,Neutral / author is just sharing information
+"OMG, I just won a trip to Hawaii! Thank you so much @mention for this amazing opportunity. #bestdayever {link}",0.6743,Tweet not related to weather condition
+Feeling grateful for this sunny day. It's been raining for weeks. #thankyou,0.8129,Positive
+"Ugh, I hate snow. It's so messy and slippery. #snowday",0.7361,Negative
+@mention No problem. Glad you liked it. {link},0.5921,Neutral / author is just sharing information
+Can't wait to go to the beach this weekend. It's going to be so much fun. #summer,0.7912,Positive
+This heat wave is killing me. I need some AC. #toohot,0.7035,Negative
+"Wow, look at this hailstorm. It's like the sky is falling. #crazyweather {link}",0.6514,Neutral / author is just sharing information
+Happy birthday to me! I'm having a blast with my friends and family. #blessed {link},0.6627,Tweet not related to weather condition
+Today is a perfect day for a picnic. The sky is blue and the breeze is gentle. #nature,0.8346,Positive
+I'm so sick of this rain. It's ruining my mood. #rainyday,0.7486,Negative
+@mention You're welcome. I'm glad you enjoyed it. {link},0.6012,Neutral / author is just sharing information
+Going skiing with my buddies. It's going to be awesome. #snow,0.7821,Positive
+This humidity is unbearable. I feel like I'm in a sauna. #sweaty,0.7194,Negative
+Look at this cute puppy I found on the street. He was shivering in the cold. #adoptdontshop {link},0.6389,Tweet not related to weather condition
+Feeling cozy in my new sweater. It's so soft and warm. #winterfashion,0.7643,Positive
